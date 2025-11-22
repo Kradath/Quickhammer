@@ -1,7 +1,7 @@
-Quickhammer.
+Quickhammer
 
 ### Описание:
-Удобное отображение правил для варгейма Warhammer 30k Horus Heresy. ### https://quickhammer.ru/
+Удобное отображение правил для варгейма Warhammer 30k Horus Heresy. https://quickhammer.ru/
 
 ![Vue](https://img.shields.io/badge/Vue-3-4FC08D?style=for-the-badge&logo=vuedotjs)
 ![Composition API](https://img.shields.io/badge/Composition-API-35495E?style=for-the-badge)
